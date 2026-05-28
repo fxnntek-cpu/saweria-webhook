@@ -1,0 +1,15 @@
+{
+  "name": "hanyatemanparty-webhook",
+  "version": "2.0.0",
+  "description": "Saweria/BagiBagi webhook server for HanyaTemanParty Roblox game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
